@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="title">Currency \nConverter</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="country">Select Country</string>
+    <string name="amount">Amount</string>
+    <string name="amount2">amount</string>
+    <string name="ksa">KSA</string>
+    <string name="usa">USA</string>
+    <string name="result">Result</string>
+    <string name="convert">Convert</string>
+</resources>
